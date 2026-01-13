@@ -7,3 +7,4 @@ trabajo cohorte VUE con Git / github
 ## Equipo
 
 - Pedro
+- Bryan
