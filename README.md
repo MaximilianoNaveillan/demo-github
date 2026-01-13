@@ -5,3 +5,4 @@ trabajo cohorte VUE con Git / github
 ## Equipo
 
 - Pedro
+- Josseline
